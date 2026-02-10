@@ -7,7 +7,7 @@
 ---
 
 ## Data Science and Machine Learning
-* DVD Rental Duration Prediction [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Transit-Accessibility-Analysis-in-New-York-City/tree/main)</button>
+* DVD Rental Duration Prediction [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/DVD-Rental-Duration-Prediction)</button>
 * House Sales Price Prediction [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/House-Sales-Price-Prediction)</button>
 ---
 
