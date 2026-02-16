@@ -18,5 +18,6 @@
 * Urban Heat Inequality in Los Angeles: A PostGIS-Driven Analysis [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Urban-Heat-Inequality-in-Los-Angeles-with-GEE-and-PostGIS)</button>
 * Amazon Deforestation Monitoring: Sub-Region Analysis in Rondônia Hotspot [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Amazon-Deforestation-Monitoring-Sub-Region-Analysis-Rondonia-Hotspot-)</button>
 * Sentiment Analysis of Flood Risk Perception in Greater Accra using X/Twitter Data [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Sentiment-Analysis-X-Twitter-data)</button>
-
 ---
+
+## GeoAI
