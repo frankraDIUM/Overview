@@ -7,6 +7,7 @@
 ---
 
 ## Data Science and Machine Learning
+* Stock Market Clustering-ML  [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Stock-Market-Clustering-ML)</button>
 * DVD Rental Duration Prediction [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/DVD-Rental-Duration-Prediction)</button>
 * House Sales Price Prediction [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/House-Sales-Price-Prediction)</button>
 ---
