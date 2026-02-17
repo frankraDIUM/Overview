@@ -21,3 +21,7 @@
 ---
 
 ## GeoAI
+* Geospatial Demand Forecasting
+* Spatial Fraud Detection
+* Location-Based Churn Modeling
+* Mobility Pattern Analysis Using Satellite + ML
