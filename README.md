@@ -1,7 +1,7 @@
 # Overview 
 Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Data Analysis and Spatial Data Science | GeoAI
 
-## Data Analysis and Dashboards <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/68d056a4-47e6-4cfb-933e-af23c4a4dfc1" /> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/870e427e-5b38-4666-81ac-c11d6f922a25" />
+## Data Analysis and Dashboards <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/68d056a4-47e6-4cfb-933e-af23c4a4dfc1" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/870e427e-5b38-4666-81ac-c11d6f922a25" />
 
 
 * Online Retail Sales Performance Dashboard [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/tree/main)</button>
