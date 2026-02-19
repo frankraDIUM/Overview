@@ -26,7 +26,6 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 
 ## Geospatial Data Analysis and Spatial Data Science <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/3cd3dcd1-1f20-4f11-8ee9-5c4324075a25" /><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/3e5c1b8c-5ec2-4384-adb6-38c5d506a888" />
 
-
 * Retail Site Selection & Revenue Potential Modeling
 * Automated GIS-ML System for Water Infrastructure Risk in Kenya [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Automated-GIS-ML-System-for-Water-Infrastructure-Risk-in-Kenya)</button>
 * Transit Accessibility Analysis in New York City  [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Transit-Accessibility-Analysis-in-New-York-City/tree/main)</button>
