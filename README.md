@@ -1,7 +1,7 @@
 # Overview 
 Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Data Analysis and Spatial Data Science | GeoAI
 
-## Data Analysis and Dashboards <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/68d056a4-47e6-4cfb-933e-af23c4a4dfc1" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/870e427e-5b38-4666-81ac-c11d6f922a25" />
+## Data Analysis and Dashboards <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/68d056a4-47e6-4cfb-933e-af23c4a4dfc1" /> 
 
 
 * Online Retail Sales Performance Dashboard [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/tree/main)</button>
@@ -14,7 +14,8 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 * Customer Lifetime Value (CLV) & Segmentation Modeling
 ---
 
-## Data Science and Machine Learning
+## Data Science and Machine Learning <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/cecf1036-ae14-4005-9d51-67f812b82174" />
+
 * Stock Market Clustering-ML  [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Stock-Market-Clustering-ML)</button>
 * Customer Churn Prediction
 * Demand Forecasting System
@@ -24,7 +25,8 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 * House Sales Price Prediction [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/House-Sales-Price-Prediction)</button>
 ---
 
-## Geospatial Data Analysis and Spatial Data Science
+## Geospatial Data Analysis and Spatial Data Science <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3cd3dcd1-1f20-4f11-8ee9-5c4324075a25" />
+
 * Retail Site Selection & Revenue Potential Modeling
 * Automated GIS-ML System for Water Infrastructure Risk in Kenya [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Automated-GIS-ML-System-for-Water-Infrastructure-Risk-in-Kenya)</button>
 * Transit Accessibility Analysis in New York City  [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Transit-Accessibility-Analysis-in-New-York-City/tree/main)</button>
@@ -33,7 +35,8 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 * Sentiment Analysis of Flood Risk Perception in Greater Accra using X/Twitter Data [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Sentiment-Analysis-X-Twitter-data)</button>
 ---
 
-## GeoAI
+## GeoAI <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8c1ee336-b7d1-4fdc-8c1d-1524b60487af" />
+
 * Geospatial Demand Forecasting
 * Spatial Fraud Detection
 * Location-Based Churn Modeling
