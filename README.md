@@ -24,7 +24,7 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 * House Sales Price Prediction [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/House-Sales-Price-Prediction)</button>
 ---
 
-## Geospatial Data Analysis and Spatial Data Science  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/37401520-19d9-46c8-a56c-cbe8c87faa5b" /> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/3cd3dcd1-1f20-4f11-8ee9-5c4324075a25" />
+## Geospatial Data Analysis and Spatial Data Science <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/37401520-19d9-46c8-a56c-cbe8c87faa5b" /> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/3cd3dcd1-1f20-4f11-8ee9-5c4324075a25" />
 
 * Retail Site Selection & Revenue Potential Modeling
 * Automated GIS-ML System for Water Infrastructure Risk in Kenya [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Automated-GIS-ML-System-for-Water-Infrastructure-Risk-in-Kenya)</button>
