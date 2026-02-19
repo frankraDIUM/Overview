@@ -35,7 +35,7 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 * Sentiment Analysis of Flood Risk Perception in Greater Accra using X/Twitter Data [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Sentiment-Analysis-X-Twitter-data)</button>
 ---
 
-## GeoAI <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8c1ee336-b7d1-4fdc-8c1d-1524b60487af" />
+## GeoAI <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/03208a8f-8b8d-4480-b02e-c0361f75bde9" />
 
 * Geospatial Demand Forecasting
 * Spatial Fraud Detection
