@@ -36,7 +36,8 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 
 ## GeoAI <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b28597f2-7ef7-4cea-a55a-89f254098b56" /> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/03208a8f-8b8d-4480-b02e-c0361f75bde9" />
 
-* Geospatial Demand Forecasting
-* Spatial Fraud Detection
-* Location-Based Churn Modeling
+* Building-Level Solar Panel Potential & Suitability Mapping
+* Automated Urban Change Detection & Compliance
+* Precision Agriculture: Variable Rate Nitrogen Prediction
 * Mobility Pattern Analysis Using Satellite + ML
+* Climate Resilience: Real-Time Flood Risk Dashboard
