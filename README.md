@@ -11,6 +11,7 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 * Pricing & Revenue Optimization Analysis
 * Fraud Detection & Risk Analysis
 * Customer Lifetime Value (CLV) & Segmentation Modeling
+* Product Sales Analysis [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Product-Sales-Analysis)</button>
 ---
 
 ## Data Science and Machine Learning <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/c01eab02-da2d-49a5-aeeb-ba4f7adca46c" /> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/cecf1036-ae14-4005-9d51-67f812b82174" />
