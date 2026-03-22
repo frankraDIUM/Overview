@@ -28,6 +28,7 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 
 * Retail Site Selection & Revenue Potential Modeling
 * Automated GIS-ML System for Water Infrastructure Risk in Kenya [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Automated-GIS-ML-System-for-Water-Infrastructure-Risk-in-Kenya)</button>
+* Spatial Optimization of Telecom Network Coverage and Customer Demand in Greater Accra [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Spatial-Optimization-of-Telecom-Network-Coverage-and-Customer-Demand-in-Greater-Accra)</button>
 * Transit Accessibility Analysis in New York City  [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Transit-Accessibility-Analysis-in-New-York-City/tree/main)</button>
 * Urban Heat Inequality in Los Angeles: A PostGIS-Driven Analysis [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Urban-Heat-Inequality-in-Los-Angeles-with-GEE-and-PostGIS)</button>
 * Amazon Deforestation Monitoring: Sub-Region Analysis in Rondônia Hotspot [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Amazon-Deforestation-Monitoring-Sub-Region-Analysis-Rondonia-Hotspot-)</button>
