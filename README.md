@@ -3,7 +3,6 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 
 ## Data Analysis and Dashboards <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/68d056a4-47e6-4cfb-933e-af23c4a4dfc1" /> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/fd3d9b71-a546-48cb-9085-9bddbb359123" />
 
-* Online Retail Sales Performance Dashboard [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/tree/main)</button>
 * Supply Chain & Inventory Optimization Dashboard
 * Financial Performance & Profitability Analysis (Corporate Finance Dashboard)
 * HR Analytics & Workforce Intelligence Dashboard
@@ -11,6 +10,7 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 * Pricing & Revenue Optimization Analysis
 * Fraud Detection & Risk Analysis
 * Customer Lifetime Value (CLV) & Segmentation Modeling
+* Online Retail Sales Performance Dashboard [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/tree/main)</button>
 * Product Sales Analysis [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Product-Sales-Analysis)</button>
 ---
 
@@ -27,13 +27,13 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 
 ## Geospatial Data Analysis and Spatial Data Science <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/3cd3dcd1-1f20-4f11-8ee9-5c4324075a25" /><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/3e5c1b8c-5ec2-4384-adb6-38c5d506a888" />
 
-* Retail Site Selection & Revenue Potential Modeling
 * Automated GIS-ML System for Water Infrastructure Risk in Kenya [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Automated-GIS-ML-System-for-Water-Infrastructure-Risk-in-Kenya)</button>
 * Spatial Optimization of Telecom Network Coverage and Customer Demand in Greater Accra [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Spatial-Optimization-of-Telecom-Network-Coverage-and-Customer-Demand-in-Greater-Accra)</button>
 * Transit Accessibility Analysis in New York City  [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Transit-Accessibility-Analysis-in-New-York-City/tree/main)</button>
 * Urban Heat Inequality in Los Angeles: A PostGIS-Driven Analysis [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Urban-Heat-Inequality-in-Los-Angeles-with-GEE-and-PostGIS)</button>
 * Amazon Deforestation Monitoring: Sub-Region Analysis in Rondônia Hotspot [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Amazon-Deforestation-Monitoring-Sub-Region-Analysis-Rondonia-Hotspot-)</button>
 * Sentiment Analysis of Flood Risk Perception in Greater Accra using X/Twitter Data [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Sentiment-Analysis-X-Twitter-data)</button>
+* Retail Site Selection & Revenue Potential Modeling
 ---
 
 ## GeoAI <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b28597f2-7ef7-4cea-a55a-89f254098b56" /> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/03208a8f-8b8d-4480-b02e-c0361f75bde9" />
