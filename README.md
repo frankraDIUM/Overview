@@ -3,7 +3,7 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 
 ## Data Analysis and Dashboards <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/68d056a4-47e6-4cfb-933e-af23c4a4dfc1" /> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/fd3d9b71-a546-48cb-9085-9bddbb359123" />
 
-* Supply Chain & Inventory Optimization Dashboard
+* Supply Chain & Inventory Optimization Dashboard [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Supply-Chain-Inventory-Optimization-Dashboard)</button>
 * Financial Performance & Profitability Analysis (Corporate Finance Dashboard)
 * HR Analytics & Workforce Intelligence Dashboard
 * Product Analytics: User Funnel & Conversion Optimization
