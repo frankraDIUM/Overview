@@ -3,13 +3,13 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 
 ## Data Analysis & Dashboards <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/68d056a4-47e6-4cfb-933e-af23c4a4dfc1" /> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/fd3d9b71-a546-48cb-9085-9bddbb359123" />
 
-* Supply Chain & Inventory Optimization Dashboard [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Supply-Chain-Inventory-Optimization-Dashboard)</button>
 * Financial Performance & Profitability Analysis (Corporate Finance Dashboard)
 * HR Analytics & Workforce Intelligence Dashboard
 * Product Analytics: User Funnel & Conversion Optimization
 * Pricing & Revenue Optimization Analysis
 * Fraud Detection & Risk Analysis
 * Customer Lifetime Value (CLV) & Segmentation Modeling
+* Supply Chain & Inventory Optimization Dashboard [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Supply-Chain-Inventory-Optimization-Dashboard)</button>
 * Online Retail Sales Performance Dashboard [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/tree/main)</button>
 * Product Sales Analysis [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Product-Sales-Analysis)</button>
 ---
@@ -38,8 +38,8 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 
 ## GeoAI <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b28597f2-7ef7-4cea-a55a-89f254098b56" /> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/03208a8f-8b8d-4480-b02e-c0361f75bde9" />
 
+* Chicago Urban Mobility Pattern Analysis Using Satellite Imagery, Taxi-Data and ML [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Chicago-Urban-Mobility-Pattern-Analysis-Using-Satellite-Imagery-Taxi-Data-and-ML)</button>
 * Building Level Solar Suitability Mapping in Urban Ghana [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Building-Level-Solar-Suitability-Mapping-in-Urban-Ghana)</button>
 * Automated Urban Change Detection & Compliance
 * Precision Agriculture: Variable Rate Nitrogen Prediction
-* Chicago Urban Mobility Pattern Analysis Using Satellite Imagery, Taxi-Data and ML [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Chicago-Urban-Mobility-Pattern-Analysis-Using-Satellite-Imagery-Taxi-Data-and-ML)</button>
 * Climate Resilience: Real-Time Flood Risk Dashboard
