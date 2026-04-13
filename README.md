@@ -1,7 +1,7 @@
 # Overview 
 Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Data Analysis and Spatial Data Science | GeoAI
 
-## Data Analysis and Dashboards <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/68d056a4-47e6-4cfb-933e-af23c4a4dfc1" /> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/fd3d9b71-a546-48cb-9085-9bddbb359123" />
+## Data Analysis & Dashboards <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/68d056a4-47e6-4cfb-933e-af23c4a4dfc1" /> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/fd3d9b71-a546-48cb-9085-9bddbb359123" />
 
 * Supply Chain & Inventory Optimization Dashboard [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Supply-Chain-Inventory-Optimization-Dashboard)</button>
 * Financial Performance & Profitability Analysis (Corporate Finance Dashboard)
@@ -14,7 +14,7 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 * Product Sales Analysis [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Product-Sales-Analysis)</button>
 ---
 
-## Data Science and Machine Learning <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/c01eab02-da2d-49a5-aeeb-ba4f7adca46c" /> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/cecf1036-ae14-4005-9d51-67f812b82174" />
+## Data Science & Machine Learning <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/c01eab02-da2d-49a5-aeeb-ba4f7adca46c" /> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/cecf1036-ae14-4005-9d51-67f812b82174" />
 
 * FraudShield AI [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/FraudShield-AI)</button>
 * Telco Customer Churn: Predictive Analysis & Explainable AI [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Telco-Customer-Churn-Predictive-Analysis-Explainable-AI)</button>
@@ -25,7 +25,7 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 * House Sales Price Prediction [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/House-Sales-Price-Prediction)</button>
 ---
 
-## Geospatial Data Analysis and Spatial Data Science <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/3cd3dcd1-1f20-4f11-8ee9-5c4324075a25" /><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/3e5c1b8c-5ec2-4384-adb6-38c5d506a888" />
+## Geospatial Data Analysis & Spatial Data Science <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/3cd3dcd1-1f20-4f11-8ee9-5c4324075a25" /><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/3e5c1b8c-5ec2-4384-adb6-38c5d506a888" />
 
 * Automated GIS-ML System for Water Infrastructure Risk in Kenya [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Automated-GIS-ML-System-for-Water-Infrastructure-Risk-in-Kenya)</button>
 * Spatial Optimization of Telecom Network Coverage and Customer Demand in Greater Accra [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Spatial-Optimization-of-Telecom-Network-Coverage-and-Customer-Demand-in-Greater-Accra)</button>
