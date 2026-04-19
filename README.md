@@ -1,7 +1,7 @@
 # Overview 
 Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Data Analysis and Spatial Data Science | GeoAI
 
-## Data Analysis & Dashboards<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/fd3d9b71-a546-48cb-9085-9bddbb359123" />
+## Data Analysis & Dashboards📊
 
 * Financial Performance & Profitability Analysis (Corporate Finance Dashboard)
 * HR Analytics & Workforce Intelligence Dashboard
