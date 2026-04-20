@@ -38,7 +38,7 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 
 ## GeoAI🛰️🤖
 * Chicago Urban Mobility Pattern Analysis Using Satellite Imagery, Taxi-Data and ML [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Chicago-Urban-Mobility-Pattern-Analysis-Using-Satellite-Imagery-Taxi-Data-and-ML)</button>
-* Building Level Solar Suitability Mapping and Investment Potential in Urban Ghana [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Building-Level-Solar-Suitability-Mapping-in-Urban-Ghana)</button>
+* Building-Level Solar Suitability Mapping in Urban Ghana (Case Study: Accra) [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Building-Level-Solar-Suitability-Mapping-in-Urban-Ghana)</button>
 * Cape Town Urban Change Detection & Compliance Monitoring System [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/tree/main)</button>
 * Precision Agriculture: Variable Rate Nitrogen Prediction
 * Climate Resilience: Real-Time Flood Risk Dashboard
