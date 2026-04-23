@@ -18,7 +18,7 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 * Algorithmic Bias Audit in Social Lending
 * Telco Customer Churn: Predictive Analysis & Explainable AI [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Telco-Customer-Churn-Predictive-Analysis-Explainable-AI)</button>
 * Stock Market Clustering-ML  [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Stock-Market-Clustering-ML)</button>
-* Demand Forecasting System
+* Geo-Predict: Hierarchical Demand Forecasting & Inventory Optimization
 * Predicting Disease Outbreak Hotspots Using Environmental Data
 * Recommendation System
 * DVD Rental Duration Prediction [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/DVD-Rental-Duration-Prediction)</button>
