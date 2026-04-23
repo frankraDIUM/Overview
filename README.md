@@ -36,9 +36,9 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 ---
 
 ## GeoAI🛰️🤖
-* Chicago Urban Mobility Pattern Analysis Using Satellite Imagery, Taxi-Data and ML [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Chicago-Urban-Mobility-Pattern-Analysis-Using-Satellite-Imagery-Taxi-Data-and-ML)</button>
-* Accra Urban Soar Suitability & Investment Mapping Using Geospatial AI and Economic Modeling [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Building-Level-Solar-Suitability-Mapping-in-Urban-Ghana)</button>
 * Cape Town Urban Change Detection & Compliance Monitoring System [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/tree/main)</button>
+* Accra Urban Solar Suitability & Investment Mapping Using Geospatial AI and Economic Modeling [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Building-Level-Solar-Suitability-Mapping-in-Urban-Ghana)</button>
+* Chicago Urban Mobility Pattern Analysis Using Satellite Imagery, Taxi-Data and ML [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Chicago-Urban-Mobility-Pattern-Analysis-Using-Satellite-Imagery-Taxi-Data-and-ML)</button>
 * Precision Agriculture: Variable Rate Nitrogen Prediction
 * Climate Resilience: Real-Time Flood Risk Dashboard
 * Automated Damage Assessment using Siameses Networks
