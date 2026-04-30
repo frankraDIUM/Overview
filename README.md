@@ -1,7 +1,7 @@
-# Overview of Select Projects
+## Overview of Select Projects
 Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Data Analysis and Spatial Data Science | GeoAI
 
-## Data Analysis & Dashboards📊
+### Data Analysis & Dashboards📊
 
 * HR Analytics & Workforce Intelligence Dashboard
 * Urban Air Quality and Health Impact Analysis
@@ -12,7 +12,7 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 * Product Sales Analysis [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Product-Sales-Analysis)</button>
 ---
 
-## Data Science & Machine Learning🤖📊
+### Data Science & Machine Learning🤖📊
 
 * FraudShield AI [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/FraudShield-AI)</button>
 * Algorithmic Bias Audit in Social Lending
@@ -25,7 +25,7 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 * House Sales Price Prediction [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/House-Sales-Price-Prediction)</button>
 ---
 
-## Geospatial Data Analysis & Spatial Data Science🌍📊
+### Geospatial Data Analysis & Spatial Data Science🌍📊
 
 * Automated GIS-ML System for Water Infrastructure Risk in Kenya [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Automated-GIS-ML-System-for-Water-Infrastructure-Risk-in-Kenya)</button>
 * Spatial Optimization of Telecom Network Coverage and Customer Demand in Greater Accra [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Spatial-Optimization-of-Telecom-Network-Coverage-and-Customer-Demand-in-Greater-Accra)</button>
@@ -35,7 +35,7 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 * Sentiment Analysis of Flood Risk Perception in Greater Accra using X/Twitter Data [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Sentiment-Analysis-X-Twitter-data)</button>
 ---
 
-## GeoAI🛰️🤖
+### GeoAI🛰️🤖
 * Cape Town Urban Change Detection & Compliance Monitoring System [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/tree/main)</button>
 * Accra Urban Solar Suitability & Investment Mapping Using Geospatial AI and Economic Modeling [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Building-Level-Solar-Suitability-Mapping-in-Urban-Ghana)</button>
 * Chicago Urban Mobility Pattern Analysis Using Satellite Imagery, Taxi-Data and ML [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Chicago-Urban-Mobility-Pattern-Analysis-Using-Satellite-Imagery-Taxi-Data-and-ML)</button>
