@@ -3,7 +3,6 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 
 ### Data Analysis & Dashboards📊
 
-* HR Analytics & Workforce Intelligence Dashboard
 * Urban Air Quality and Health Impact Analysis
 * Wildlife Conservation: Species Occupancy Modeling
 * Customer Lifetime Value (CLV) & Segmentation Modeling
@@ -19,7 +18,6 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 * Telco Customer Churn: Predictive Analysis & Explainable AI [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Telco-Customer-Churn-Predictive-Analysis-Explainable-AI)</button>
 * Stock Market Clustering-ML  [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Stock-Market-Clustering-ML)</button>
 * Geo-Predict: Hierarchical Demand Forecasting & Inventory Optimization
-* Predicting Disease Outbreak Hotspots Using Environmental Data
 * Recommendation System
 * DVD Rental Duration Prediction [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/DVD-Rental-Duration-Prediction)</button>
 * House Sales Price Prediction [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/House-Sales-Price-Prediction)</button>
