@@ -3,8 +3,8 @@ Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Da
 
 ### Data Analysis & Dashboards📊
 
-* Urban Air Quality and Health Impact Analysis
-* Wildlife Conservation: Species Occupancy Modeling
+* Causal Analysis of Urban Air Quality and Respiratory Morbidity
+* Dynamic Occupancy of Forest-Dependent Mammals in Fragmented Landscapes
 * Customer Lifetime Value (CLV) & Segmentation Modeling
 * Supply Chain & Inventory Optimization Dashboard [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Supply-Chain-Inventory-Optimization-Dashboard)</button>
 * Online Retail Sales Performance Dashboard [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/tree/main)</button>
